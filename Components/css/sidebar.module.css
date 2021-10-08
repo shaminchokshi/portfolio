@@ -1,0 +1,15 @@
+/** @format */
+
+@keyframes moveRight {
+  from {
+    transform: translateX(10rem);
+  }
+  to {
+    transform: translateX(0rem);
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .Container {
+    animation: moveRight 0.5s ease-in-out;
+  }
+}
