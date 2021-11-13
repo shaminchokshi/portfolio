@@ -33,7 +33,9 @@ const Contact = () => {
           and follow my work on
         </div>
         <div>
+        <a href="https://github.com/shaminchokshi">
           <FiGithub className='mt-10' size={45} />
+          </a>
         </div>
       </div>
       <div className='mt-44 text-black font-bold bg-yellow-100 h-16 flex justify-center items-center'>
