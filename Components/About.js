@@ -36,27 +36,26 @@ const About = () => {
         src={"/Photo.jpeg"}
       />
       <Image
-        width={"280px"}
+        width={"200px"}
         height={"400px"}
         className='visible px-16 lg:invisible mx-20 w-12 h-36 rounded-lg'
         alt='userImage'
         src={"/Photo.jpeg"}
       />
-      <div className='px-4 lg:px-0 mt-4 lg:mt-0 lg:pl-12 font-sans '>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-        dignissim justo non lacinia dapibus. Etiam non ipsum diam. Mauris mollis
-        nunc mi, ac eleifend metus eleifend et. <br />
-        Phasellus ultricies non mauris id blandit. Proin non consequat mauris.
-        Duis commodo augue eu leo vulputate, a dictum ligula condimentum.
-        <br /> eu velit tincidunt, id elementum tellus congue. Nam dictum
-        consequat mi eget efficitur.
-        <br /> Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam
-        semper placerat purus, ut sollicitudin augue elementum sed. Nam a sem
-        egestas, cursus quam. Mauris mollis nunc mi, ac eleifend metus eleifend
-        et. <br />
-        Phasellus ultricies non mauris id blandit. Proin non consequat mauris.
-        Duis commodo augue eu leo vulputate, a dictum ligula condimentum. eu
-        velit tincidunt, id elementum tellus congue. Nulla dictum ipsum N
+      <div className='px-4 lg:px-0 mt-4 lg:mt-0 lg:pl-12 font-sans text-lg'>
+        Hello there Folks!! Its me Shamin, <br />
+        A Designer, A Developer and a Dancer.
+        <br /> 
+         A creative vein runs through me but I’m equal parts technically savvy.<br /> 
+        I can make a paint brush dance to the tunes in my head but being a geek at heart, 
+        I also write code just for fun. The wee hours of my nights are spent whipping up dance choreographies but 
+        during afternoons I strictly plan dates with my Raspberry Pi.<br /> 
+        I wouldn’t say that I can do it all or that I am a master of some.
+        And being the Jack of all trades to be honest - is next to impossible for anyone. 
+        But I can indeed say that with these two primary skills that I enjoy and nurture profusely, my day goes by quickly, 
+        I sleep soundly and always wake up exhilarated to start again. 
+        <br />
+        
       </div>
     </div>
   );
