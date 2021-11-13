@@ -25,7 +25,9 @@ const Contact = () => {
         </div>
         <div className='flex my-8'>
           <FiInstagram className='mr-10' size={45} />
+          <a href="https://www.linkedin.com/in/shamin-chokshi-47847b171/">
           <FiLinkedin className='mr-10' size={45} />
+          </a>
         </div>
         <div className='text-xl font-bold text-yellow-100'>
           and follow my work on
