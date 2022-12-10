@@ -1,6 +1,18 @@
 /** @format */
 
 export const Data = {
+  "Mobile App Development Intern at Soho Dragon": {
+    Duration: "January 2022-August 2022",
+    points: [
+      "Solely developed a mobile Application using JavaScript (React Native) that allows users to book reservations in restaurants",
+      "Created a MySQL Database for restaurants, customers and reservations to reduce manual lookup time by 2 hours per day",
+      "Supervised a team of 12 people for smoother flow of the project and to check progress using Agile methodology and tools like Azure DevOps and Jira",
+      "Integrated Razorpay payment gateway for users for In-App purchases to speed up monetary transactions by 40%",
+      "Designed a dynamic UI using Figma to improve the user experience",
+      "Engineered APIs in NodeJS and Express for all user activities like login/Sign Up; APIs to generate orders for payments which can be processed in less than 50ms",
+      "Implemented API security using JWT (JSON web Tokens) for counteracting the risk of data breaches",
+    ],
+  },
   "Intern at Soho Dragon": {
     Duration: "June 2021-July 2021",
     points: [
