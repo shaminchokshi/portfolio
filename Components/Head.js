@@ -9,7 +9,7 @@ const Head = () => {
     <div className='text-white mt-32'>
       <div className='w-5/6 lg:w-5/12'>
         <div className='flex font-sans ml-10 lg:ml-0 justify-end text-4xl text-yellow-100 mb-3'>
-          software engineer & UX UI Designer 
+          Software Engineer & Business Data Analyst 
         </div>
         <div className='w-full border-2 bg-yellow-100 border-yellow-100' />
       </div>
