@@ -1,6 +1,16 @@
 /** @format */
 
 export const Data = {
+    "Business Analyst Intern at Bright Horizons": {
+    Duration: "June 2023-December 2023",
+    points: [
+      "Captured and documented critical data points from a web application, leading to improved data quality and more informed decision-making",
+      "Orchestrated KPIs and tracked user behavior using SQL and Business Intelligence for web app features, optimizing performance assessment and improving feature refinement, leading to heightened user engagement by 8%",
+      "Captured and translated requirements into user stories in Azure DevOps, fostering streamlined development processes accelerating project delivery",
+      "Facilitated seamless communication with stakeholders, providing vital requirement clarifications to developers. This proactive engagement ensured a shared understanding of project goals, and optimizing overall efficiency by 20%",
+      "Developed comprehensive Business Requirements Documents (BRDs), Product Requirements Documents (PRDs), and System Requirements Specifications (SRS) to outline project objectives, functionality, and technical specifications, facilitating clear communication and alignment between stakeholders and development teams",
+    ],
+  },
   "Mobile App Development Intern at Soho Dragon": {
     Duration: "January 2022-August 2022",
     points: [
