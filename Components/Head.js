@@ -30,7 +30,7 @@ const Head = () => {
           <div className='w-full'>
             <div className='w-full border-2 bg-yellow-100 border-yellow-100' />
             <div className='font-sans text-4xl text-yellow-100 mt-3'>
-              based in India
+              based in USA
             </div>
           </div>
         </div>
