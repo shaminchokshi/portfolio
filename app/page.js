@@ -10,7 +10,7 @@ import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
 import Contact from "@/components/Contact";
 import AvatarJourneyMount from "@/components/AvatarJourneyMount";
-import PipeMount from "@/components/PipeMount";
+import PipeMount from "@/components/Pipemount";
 import BackgroundFX from "@/components/BackgroundFX";
 
 export default function Page() {
